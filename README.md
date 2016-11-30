@@ -1,4 +1,4 @@
-# all-about-study
+# all-about-study [wiki](https://github.com/organic-benefit/all-about-study/wiki)
 
 ## 스터디의 방향
 
