@@ -15,6 +15,9 @@
 - data structure
 - gradle
 - git, github, git-flow(case-by-case)
+- unit test(*)
+- documentation(*)
+- refactoring
 
 ### Web relational frarmeworks
 - spring
